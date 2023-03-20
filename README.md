@@ -1,5 +1,5 @@
 # NLP-for-French-reviews
-A tutorial is related to this code in medium
+The following serie of tutorials is related to these codes in medium.
 
 Part 1: Scrapping the data:
 

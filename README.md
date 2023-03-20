@@ -11,4 +11,4 @@ https://medium.com/@isetitra/french-reviews-analysis-at-hexamind-part-2-classify
 
 Part 3: Classification using a count vectorizer
 
-https://medium.com/@isetitra/french-reviews-analysis-at-hexamind-part-1-get-the-data-fde1688814ca
+https://medium.com/@isetitra/french-reviews-analysis-at-hexamind-part-3-multilabel-classification-e448798cf66a
